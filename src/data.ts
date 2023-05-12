@@ -10,7 +10,7 @@ export const introData = {
   email: "rbunpat@gmail.com",
   github: "rbunpat",
 //   linkedin: "manassarn",
-  location: "Redacted, Thailand",
+  location: "Surat Thani, Thailand",
   website: "rbunpat.tech",
 }
 
@@ -40,7 +40,7 @@ export const technologies = [
 export const educations = [
   {
     head: "Education",
-    details: "Redacted School 2022-present",
+    details: "Suratthani School (2022-present)",
   },
 ]
 
