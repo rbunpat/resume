@@ -13,7 +13,7 @@
   class="flex flex-wrap flex-col sm:flex-row print:flex-row text-sm sm:text-base"
 >
   <div class="flex-1 text-left sm:py-4 w-48">
-    <p><a href={`tel:${phone}`}>{phone}</a></p>
+<!--     <p><a href={`tel:${phone}`}>{phone}</a></p> -->
     <p><a href={`mailto:${email}`}>{email}</a></p>
     <p>{location}</p>
   </div>
@@ -38,13 +38,13 @@
         >{website}</a
       >
     </p>
-    <p>
+<!--     <p>
       <a
         href={`https://linkedin.com/in/${linkedin}`}
         target="_blank"
         rel="noreferrer">Linkedin</a
       >
-    </p>
+    </p> -->
   </div>
 </div>
 
