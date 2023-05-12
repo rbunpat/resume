@@ -10,48 +10,48 @@ export const introData = {
   email: "rbunpat@gmail.com",
   github: "rbunpat",
 //   linkedin: "manassarn",
-  location: "Suratthani, Thailand",
-  website: "narze.live",
+  location: "Redacted, Thailand",
+  website: "rbunpat.tech",
 }
 
 export const technologies = [
   {
     section: "Languages:",
     details:
-      "Python, JavaScript, Node.js, Arduino (C++).",
+      "Python, JavaScript, TypeScript, C++ (Arduino), SQL, Thai and English (heh)",
   },
   {
     section: "Frameworks:",
     details:
-      "VueJS, TailwindCSS, Bootstrap",
+      "Prisma, VitePress, Svelte, TailwindCSS, Bootstrap",
   },
   {
-    section: "Tools:",
+    section: "Video Editing:",
     details:
-      "Git",
+      "Davinci Resolve, Blender, Adobe Premiere Pro, Adobe After Effects",
   },
   {
     section: "Other:",
     details:
-      "GCP, Linode, Vercel, Cloud66, Github Actions, CloudFlare",
+      "Linux, Docker, Vercel, Linode, Azure, Cloudflare, Arduino, NGIИX, Pocketbase",
   },
 ]
 
 export const educations = [
   {
-    head: "WIP",
-    details: "WIP",
+    head: "Education",
+    details: "Redacted School 2022-present",
   },
 ]
 
 export const workExperiences = [
   {
-    position: "WIP",
-    company: "WIP",
-    url: "https://example.com",
-    years: ["WIP", "WIP"],
+    position: "nah",
+    company: "nah",
+    url: "nah",
+    years: ["2069", "2420"],
     details: [
-      "WIP",
+      "",
     ],
   },
 ]
@@ -66,7 +66,7 @@ export const projects = [
 ]
 
 export const interests = [
-  "Areas : Coding, Mechanical Keyboards, Homelab",
+  "Areas : Coding, Mechanical Keyboards, Homelab (Cosplaying as a sysadmin), Headphones + IEMs",
   "Typing : AVG 80 WPM (EN, QWERTY)",
-  "Music : WIP",
+  "Music : :)",
 ]
