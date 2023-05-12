@@ -22,11 +22,6 @@
   }
 </script>
 
-<!-- Remove this is you does not want Kofi widget on your site -->
-{#if introData.github == "narze"}
-  <Kofi name={introData.github} />
-{/if}
-
 <Tailwind />
 
 <header
