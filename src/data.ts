@@ -9,7 +9,7 @@ export const introData = {
   phone: "",
   email: "rbunpat@gmail.com",
   github: "rbunpat",
-//   linkedin: "manassarn",
+//   linkedin: "rbunpat",
   location: "Surat Thani, Thailand",
   website: "rbunpat.tech",
 }
@@ -46,12 +46,12 @@ export const educations = [
 
 export const workExperiences = [
   {
-    position: "nah",
+    position: "none lol",
     company: "nah",
     url: "nah",
     years: ["2069", "2420"],
     details: [
-      "",
+      "non lol",
     ],
   },
 ]
