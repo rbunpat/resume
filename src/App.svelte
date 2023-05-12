@@ -22,11 +22,6 @@
   }
 </script>
 
-<!-- Remove this is you does not want Kofi widget on your site -->
-{#if introData.github == "narze"}
-  <Kofi name={introData.github} />
-{/if}
-
 <Tailwind />
 
 <header
@@ -92,7 +87,7 @@
     </ul>
   </section>
 
-  <section>
+<!--   <section>
     <HideToggle />
     <h2 class="text-2xl print:text-4xl uppercase text-left">Work Experience</h2>
     <hr />
@@ -100,7 +95,7 @@
     {#each workExperiences as exp}
       <Work {...exp} />
     {/each}
-  </section>
+  </section> -->
 
   <section>
     <HideToggle />
