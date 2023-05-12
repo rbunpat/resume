@@ -92,7 +92,7 @@
     </ul>
   </section>
 
-  <section>
+<!--   <section>
     <HideToggle />
     <h2 class="text-2xl print:text-4xl uppercase text-left">Work Experience</h2>
     <hr />
@@ -100,7 +100,7 @@
     {#each workExperiences as exp}
       <Work {...exp} />
     {/each}
-  </section>
+  </section> -->
 
   <section>
     <HideToggle />
