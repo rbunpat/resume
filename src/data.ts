@@ -61,12 +61,12 @@ export const projects = [
     name: "Staff Navigator Website",
     details:
       "A website for Suratthani School's Staff Navigator project built with Sveltekit",
-    url: "https://st-innovation.in.th/",
+    url: "st-innovation.in.th",
   },
 ]
 
 export const interests = [
   "Areas : Coding, Mechanical Keyboards, Homelab (Cosplaying as a sysadmin), Headphones + IEMs",
   "Typing : AVG 80 WPM (EN, QWERTY)",
-  "Music : :)",
+  "",
 ]
