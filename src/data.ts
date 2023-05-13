@@ -58,10 +58,10 @@ export const workExperiences = [
 
 export const projects = [
   {
-    name: "WIP",
+    name: "Staff Navigator Website",
     details:
-      "WIP",
-    url: "WIP",
+      "A website for Suratthani School's Staff Navigator project built with Sveltekit",
+    url: "https://st-innovation.in.th/",
   },
 ]
 
