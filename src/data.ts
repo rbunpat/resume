@@ -18,7 +18,7 @@ export const technologies = [
   {
     section: "Languages:",
     details:
-      "Python, JavaScript, TypeScript, C++ (Arduino), SQL, Thai and English (heh)",
+      "Python, JavaScript, TypeScript, Node.js, C++ (Arduino), SQL, Thai and English (heh)",
   },
   {
     section: "Frameworks:",
