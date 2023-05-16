@@ -66,6 +66,6 @@ export const projects = [
 ]
 
 export const interests = [
-  "Areas : Coding, Mechanical Keyboards, Homelab (Cosplaying as a sysadmin), Headphones + IEMs",
+  "Areas : Coding, Mechanical Keyboards, Homelab, Headphones + IEMs",
   "Typing : AVG 80 WPM (EN, QWERTY)",
 ]
