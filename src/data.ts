@@ -23,17 +23,32 @@ export const technologies = [
   {
     section: "Frameworks:",
     details:
-      "Prisma, VitePress, Svelte, TailwindCSS, Bootstrap",
+      "Prisma, Pocketbase, VitePress, Svelte/Sveltekit, TailwindCSS, DaisyUI, Bootstrap",
   },
   {
     section: "Video Editing:",
     details:
-      "Davinci Resolve, Blender, Adobe Premiere Pro, Adobe After Effects",
+      "Davinci Resolve, Adobe Premiere Pro, Adobe After Effects, Blender",
   },
   {
-    section: "Other:",
+    section: "Virtualization:",
     details:
-      "Linux, Docker, Vercel, Linode, Azure, Cloudflare, Arduino, NGIИX, Pocketbase",
+      "Hyper-V, Proxmox VE",
+  },
+  {
+    section: "Services:",
+    details:
+      "Linode, Azure, Cloudflare, Vercel, Netdata",
+  },
+  {
+    section: "Web Servers:",
+    details:
+      "NGIИX, Apache",
+  },
+  {
+    section: "Others:",
+    details:
+      "Linux, Docker, Arduino",
   },
 ]
 
@@ -66,6 +81,6 @@ export const projects = [
 ]
 
 export const interests = [
-  "Areas : Coding, Mechanical Keyboards, Homelab, Headphones + IEMs",
+  "Areas : Coding, Mechanical Keyboards, Homelab, Headphones and IEMs",
   "Typing : AVG 80 WPM (EN, QWERTY)",
 ]
