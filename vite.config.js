@@ -3,7 +3,7 @@ import { svelte } from "@sveltejs/vite-plugin-svelte"
 import { fullVersionLink, ogImageUrl } from "./src/data"
 
 const headers = [
-  `<title>Manassarn Manoonchai - Resumette</title>`,
+  `<title>Rachatat Bunpat - Resumette</title>`,
   `<meta name="title" content="Rachatat Bunpat - Resumette" />`,
   `<meta name="description" content="Rachatat Bunpat's Resumette" />`,
   `<meta name="viewport" content="width=device-width, initial-scale=1" />`,
