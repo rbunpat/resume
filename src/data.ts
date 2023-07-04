@@ -38,7 +38,7 @@ export const technologies = [
   {
     section: "Services:",
     details:
-      "Linode, Azure, Cloudflare, Vercel, Netdata",
+      "Linode, Azure, DigitalOcean, Cloudflare, Vercel, Netdata",
   },
   {
     section: "Web Servers:",
