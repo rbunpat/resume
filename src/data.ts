@@ -48,7 +48,7 @@ export const technologies = [
   {
     section: "Others:",
     details:
-      "Linux, Docker, Arduino",
+      "Linux, Docker, Arduino, Wordpress",
   },
 ]
 
