@@ -11,7 +11,7 @@ export const introData = {
   github: "rbunpat",
 //   linkedin: "rbunpat",
   location: "Surat Thani, Thailand",
-  website: "rbunpat.tech",
+  website: "rachatat.com",
 }
 
 export const technologies = [
