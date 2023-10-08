@@ -11,7 +11,7 @@ export const introData = {
   github: "rbunpat",
 //   linkedin: "rbunpat",
   location: "Surat Thani, Thailand",
-  website: "rbunpat.tech",
+  website: "rachatat.com",
 }
 
 export const technologies = [
@@ -48,7 +48,7 @@ export const technologies = [
   {
     section: "Others:",
     details:
-      "Linux, Docker, Arduino",
+      "Linux, Docker, Arduino, Wordpress",
   },
 ]
 
