@@ -14,7 +14,7 @@
     "@testing-library/svelte": "^4.0.3",
     "@types/jest": "^27.0.2",
     "autoprefixer": "^10.4.16",
-    "babel-jest": "^27.3.1",
+    "babel-jest": "^29.7.0",
     "cssnano": "^5.0.8",
     "jest": "^27.3.1",
     "postcss": "^8.4.31",
