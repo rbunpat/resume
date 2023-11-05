@@ -76,7 +76,7 @@ export const projects = [
     name: "Staff Navigator Website",
     details:
       "A website for Suratthani School's Staff Navigator project built with Sveltekit",
-    url: "st-innovation.in.th",
+    url: "staffnavigator.rachatat.com",
   },
 ]
 
