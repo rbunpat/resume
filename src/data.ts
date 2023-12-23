@@ -10,7 +10,7 @@ export const introData = {
   email: "rbunpat@gmail.com",
   github: "rbunpat",
 //   linkedin: "rbunpat",
-  location: "Surat Thani, Thailand",
+  location: "Suratthani, Thailand",
   website: "rachatat.com",
 }
 
