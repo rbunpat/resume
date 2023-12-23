@@ -43,7 +43,7 @@ export const technologies = [
   {
     section: "Web Servers:",
     details:
-      "NGIИX, Apache",
+      "NGIИX, Apache, Caddy",
   },
   {
     section: "Others:",
@@ -76,7 +76,7 @@ export const projects = [
     name: "Staff Navigator Website",
     details:
       "A website for Suratthani School's Staff Navigator project built with Sveltekit",
-    url: "staffnavigator.rachatat.com",
+    url: "navigator.rachatat.com",
   },
 ]
 
