@@ -75,7 +75,7 @@ export const projects = [
   {
     name: "Staff Navigator Website",
     details:
-      "A website for Suratthani School's Staff Navigator project built with Sveltekit",
+      "A website for Suratthani School's Staff Navigator project built with Sveltekit, Supabase and hosted on Vercel",
     url: "navigator.rachatat.com",
   },
 ]
