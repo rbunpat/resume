@@ -18,12 +18,12 @@ export const technologies = [
   {
     section: "Languages:",
     details:
-      "Python, JavaScript, TypeScript, Node.js, C++ (Arduino), SQL, Thai and English (heh)",
+      "Python, JavaScript, TypeScript, Node.js, C++, SQL, Thai and English (heh)",
   },
   {
     section: "Frameworks:",
     details:
-      "Prisma, Pocketbase, VitePress, Svelte/Sveltekit, TailwindCSS, DaisyUI, Bootstrap",
+      "Prisma, Pocketbase, VitePress, Svelte/Sveltekit, TailwindCSS, DaisyUI, Flowbite, Bootstrap",
   },
   {
     section: "Video Editing:",
