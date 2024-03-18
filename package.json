@@ -17,7 +17,7 @@
     "babel-jest": "^27.3.1",
     "cssnano": "^5.0.8",
     "jest": "^27.3.1",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.36",
     "postcss-load-config": "^5.0.2",
     "svelte": "^3.49.0",
     "svelte-jester": "^3.0.0",
